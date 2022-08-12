@@ -4,6 +4,13 @@
 1. To build a Google Apps Script code that can automatically send an email notification when new entry is uploaded.
 2. To build a Google Apps Script code that record timestamp when new entry is uploaded.
 
+### Solution
+Please refer to the Google Spreadsheet below. 
+
+https://docs.google.com/spreadsheets/d/1TAnJjQfbvkQQsYloLQJ6hdwQHFwi3K-2ODMnE7hnptQ/edit#gid=0
+
+You can open the Apps Script project from the spreadsheet by clicking ***Extensions > Apps Script***.
+
 ### Remark
 Create an email template. In your Gmail account, create an email draft. To include data from the spreadsheet in your email, use placeholders that correspond to column names surrounded by curly braces, such as {{First name}}. Copy the subject line of your email draft.
 
