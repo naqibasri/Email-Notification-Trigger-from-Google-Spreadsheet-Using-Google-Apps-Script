@@ -1,4 +1,4 @@
-# Email-Notification-Trigger-from-Google-Spreadsheet-Using-Google-Apps-Script
+# Email Notification Trigger from Google Spreadsheet Using Google Apps Script
 
 ### Objective
 1. To build a Google Apps Script code that can automatically send an email notification when new entry is uploaded.
