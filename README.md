@@ -21,4 +21,4 @@ Create an email template. In your Gmail account, create an email draft. To inclu
         End Date: {{Tarikh akhir}}
 
         Thank you and best regards,
-        Analytics Department
+        Data Scientist
