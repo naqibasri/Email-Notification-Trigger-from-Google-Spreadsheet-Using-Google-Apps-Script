@@ -33,3 +33,11 @@ Create an email template. In your Gmail account, create an email draft. To inclu
 
         Thank you and best regards,
         Data Scientist
+
+### References:
+##### Javascript
+1. https://websitesetup.org/javascript-cheat-sheet/
+2. https://ilovecoding.org/blog/js-cheatsheet
+##### Google Apps Script
+3. https://www.udemy.com/course/course-apps-script/
+4. https://developers.google.com/apps-script/samples/automations/mail-merge
